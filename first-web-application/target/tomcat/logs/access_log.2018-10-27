@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:13:13:36 +0530] "GET / HTTP/1.1" 200 358 http-bio-8080-exec-1 1222
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:13:13:43 +0530] "GET /login.do?name=Arjun+Sharma HTTP/1.1" 200 370 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:13:13:50 +0530] "GET /login.do?name=archie_97 HTTP/1.1" 200 367 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:14:02:04 +0530] "GET /login.do?name=archie_97 HTTP/1.1" 200 381 http-bio-8080-exec-7 404
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:14:03:47 +0530] "POST /login.do HTTP/1.1" 405 1067 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:14:08:56 +0530] "GET /login.do?name=archie_97 HTTP/1.1" 200 381 http-bio-8080-exec-2 19
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:14:09:01 +0530] "POST /login.do HTTP/1.1" 200 275 http-bio-8080-exec-2 246
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:14:12:51 +0530] "POST /login.do HTTP/1.1" 200 290 http-bio-8080-exec-7 267
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:14:45:59 +0530] "GET /login.do HTTP/1.1" 200 421 http-bio-8080-exec-3 289
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:14:46:08 +0530] "POST /login.do HTTP/1.1" 200 312 http-bio-8080-exec-3 155
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:15:04:30 +0530] "GET /login.do HTTP/1.1" 200 459 http-bio-8080-exec-6 380
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:15:04:38 +0530] "POST /login.do HTTP/1.1" 200 312 http-bio-8080-exec-2 16
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:15:04:41 +0530] "GET /login.do HTTP/1.1" 200 459 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [27/Oct/2018:15:04:47 +0530] "POST /login.do HTTP/1.1" 200 478 http-bio-8080-exec-2 3

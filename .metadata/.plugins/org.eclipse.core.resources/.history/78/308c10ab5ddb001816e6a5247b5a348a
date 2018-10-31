@@ -1,0 +1,14 @@
+package com.in28minutes.login;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserValidationService {
+
+	public boolean isUSerValid(String user,String password){
+		if(user.equals("Arjun Sharma")&&password.equals("dummy")){
+			return true;
+		}
+		return false;
+	}
+}

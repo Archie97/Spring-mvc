@@ -1,0 +1,8 @@
+package com.in28minutes;
+
+public class UserValidationService {
+
+	public boolean isUSerValid(String user,String password){
+		
+	}
+}

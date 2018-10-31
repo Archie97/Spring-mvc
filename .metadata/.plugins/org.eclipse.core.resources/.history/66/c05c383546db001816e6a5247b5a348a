@@ -1,0 +1,11 @@
+package com.in28minutes.springmvc;
+
+public class UserValidationService {
+
+	public boolean isUSerValid(String user,String password){
+		if(user.equals("Arjun Sharma")&&password.equals("dummy")){
+			return true;
+		}
+		return false;
+	}
+}

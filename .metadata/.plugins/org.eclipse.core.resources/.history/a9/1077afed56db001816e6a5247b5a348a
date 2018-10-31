@@ -1,0 +1,13 @@
+package com.in28minutes.todo;
+
+import java.sql.Date;
+
+public class Todo {
+
+	private int id;
+	private String user;
+	private String desc;
+	private Date targetDate;
+	private boolean isDone;
+	
+}
