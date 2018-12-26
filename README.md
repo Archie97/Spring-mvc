@@ -8,6 +8,6 @@ This is spring mvc based web application for notes management. Features are list
 - Quick links are available such as listing of notes and adding more notes.
 
 Front-end styling is done using bootstrap dependency.
-Server used to launch the web application is tomcat7
-Run command for application is tomcat7:run
+Server used to launch the web application is tomcat7.
+Run command for application is tomcat7:run.
 Browser link for the web application is localhost:8080/
